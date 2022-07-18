@@ -1,5 +1,6 @@
 import React from 'react';
 import Bicycle from './components/Bicycle';
+import Footer from './components/Footer';
 //import Heroi from './components/Heroi';
 import Heroii from './components/Heroii';
 import Slider from './components/Slider';
@@ -44,6 +45,7 @@ function App() {
           spec3="Egronomic"
         />
       </div>
+      <Footer />
     </>
   );
 }
