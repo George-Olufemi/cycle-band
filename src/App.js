@@ -1,10 +1,12 @@
 import React from 'react';
-import Heroi from './components/Heroi';
+//import Heroi from './components/Heroi';
+import Heroii from './components/Heroii';
 
 function App() {
   return (
     <>
-      <Heroi />
+      {/* <Heroi /> */}
+      <Heroii />
     </>
   );
 }
