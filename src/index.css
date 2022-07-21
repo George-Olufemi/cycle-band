@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.llnp {
+  @apply font-[600] text-[28px] leading-[33px] text-[#E4D5FF] mb-[16px];
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
